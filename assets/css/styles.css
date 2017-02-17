@@ -1,0 +1,9 @@
+body {
+    background: #000 url('/assets/images/drive-in-large.jpg') no-repeat center center;
+    color: #0099cc;
+    min-height: 600px;
+}
+
+.container {
+    background: #000;
+}
