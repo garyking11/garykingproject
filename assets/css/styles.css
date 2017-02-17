@@ -1,9 +1,30 @@
 body {
-    background: #000 url('/assets/images/drive-in-large.jpg') no-repeat center center;
-    color: #0099cc;
-    min-height: 600px;
+    background: #000;
+    color: #fff;
 }
 
 .container {
-    background: #000;
+
+    background: #000 url('/assets/images/bg-electronic.jpg') no-repeat center center;
+
+    min-height: 600px;
+}
+
+section.pink-border {
+    border: 1px solid #ff3856;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+h1, h2 {
+    color: #ff3856;
+    text-transform: uppercase;
+}
+h1  {
+    font-size: 2.5
+    0em;
+}
+
+h2  {
+    font-size: 1.5em;
 }
