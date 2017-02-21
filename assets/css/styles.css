@@ -1,12 +1,32 @@
+html, body, html body {
+    min-height: 100%;
+}
+
 body {
     background: #000;
-    color: #fff;
-    background: #000 url('/assets/images/bg-electronic.jpg') no-repeat center center;
+    color: #d5d5d5;
+    background: #000 url('/assets/images/bg-electronic.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.content {
+    /*min-height: 1078px;*/
+    min-height:100%;
+    position:relative;
+    padding-bottom:  20px;
+}
+
+section {
+    background: rgba(0, 0, 0, 0.3);
+    margin-bottom: 5px;
+    border-bottom: 1px solid #000;
 }
 
 .pink-border {
     border: 1px solid #ff3856;
-    padding: 20px;
+    padding: 10px;
     margin: 10px 0;
     background: rgba(0, 0, 0, 0.42);
 }
@@ -14,6 +34,11 @@ body {
 h1.heading {
     font-size: 3.75em;
     padding: 10px;
+    color: #fff;
+}
+
+h3.heading {
+    padding: 5px;
 }
 
 .header-container {
@@ -23,6 +48,16 @@ h1.heading {
     margin-left: auto;
 }
 
+.center-sm {
+     text-align: center;
+ }
+
+.center-sm iframe {
+     text-align: center;
+ }
+
+
+
 h1, h2, h3, h4, h5 {
     text-transform: uppercase;
 }
@@ -30,29 +65,101 @@ h1, h2, h3, h4, h5 {
 h1 {
     color: #ff3856;
     font-size: 2.50em;
+    text-align: center;
+
 }
 
 h2 {
     color: #ff3856;
-    font-size: 1.5em;
+    font-size: 1.75em;
+    padding: 10px;
+    letter-spacing: 12px;
+    text-align: center;
 }
 
 h3 {
     font-size: 1.5em;
-    color: #fff;
+    color: #d5d5d5;
+}
+
+h4 {
+    color: #d5d5d5;
+}
+
+h5 {
+    color: #ff3856;
 }
 
 h3.spaced {
-    letter-spacing: 3px;
+    letter-spacing: 5px;
+}
+
+.spaced {
+    letter-spacing: 5px;
+}
+
+a {
+    cursor: pointer;
+    color: #ff3856;
 }
 
 a, input, textarea {
     outline: none;
 }
 
-.bg-pink {
-    background: #ff3856;
+a:hover {
+    text-decoration: none;
     color: #fff;
+}
+
+/* navbar */
+
+.bold {
+    font-weight: bold;
+}
+
+.navbar {
+    font-size: 1.25em;
+    margin-bottom: 0;
+    border-radius: 0px;
+
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #000;
+}
+
+.navbar-inverse {
+    background-color: #ff3856;
+    border-color: #ff3856;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #000;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar  {
+    text-align: center;
+}
+
+/* end navbar */
+
+.bg-pink {
+      background: #ff3856;
+      color: #fff;
+  }
+
+
+.text-pink {
+    color: #ff3856;
+}
+
+h2.text-black {
+    color: #000;
 }
 .image-max-150 {
     max-width: 150px;
@@ -62,12 +169,36 @@ a, input, textarea {
     max-width: 250px;
 }
 
+/* Callouts */
+#callouts .bg-callout {
+    background: #222;
+    margin: 1%;
+    width: 31.333333333334%
+}
+
+#callouts .bg-callout a {
+    color: #fff;
+    font-size: 3.25em;
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+}
+
+#callouts a:hover {
+    color: #ff3856;
+}
+
 .image-max-350 {
     max-width: 350px;
 }
 
-.clear {
-    clear: both;
+.image-logo-100 {
+    width: 100%;
+
+}
+
+img {
+    width: 100%;
 }
 
 img.pull-right {
@@ -81,16 +212,114 @@ img.pull-left {
     margin-bottom: 10px;
     border: 8px solid #000;
 }
+
 .content-info {
     margin-left: 10px;
 }
 
 footer {
+    position: relative;
     min-height: 100px;
-    background: #000;
+    background: rgba(0, 0, 0, 0.42);
     padding-bottom: 20px;
+    border-top: 1px solid #a8b2b9;
+    text-align: center;
+}
+
+footer ul li a {
+    color: #ff3856;
+}
+
+footer ul li a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer h2 {
+    color: #fff;
+    padding: 0;
 }
 
 ul.links {
     margin: 5px 10px;
 }
+
+input[type=submit] {
+     padding:5px 15px;
+     background:#ff3856;
+     border:0 none;
+     cursor:pointer;
+     color: #fff;
+ }
+
+input[type=submit]:hover {
+    padding:5px 15px;
+    background:#ff3856;
+    border:0 none;
+    color: #000;
+    cursor:pointer;
+    /* should come BEFORE filter */
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    /* This works in IE 8 & 9 too */
+    filter: alpha(opacity=80);
+    /* Modern Browsers */
+    opacity: 0.8;
+
+}
+
+.clear {
+    clear: both;
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {   }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+    .center-sm {
+        text-align: left;
+    }
+
+    footer {
+        min-height: 100px;
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    }
+
+    .content {
+        /*min-height: 1078px;*/
+        min-height: 100%;
+        position: relative;
+        padding-bottom: 250px;
+    }
+
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {   }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {  }
+
+
+/*Small Devices, Tablets */
+/*
+@media only screen and (min-width : 48em) and ( max-width: 63.9999999em) {
+
+
+
+}
+*/
+
+/* Medium Devices, Desktops */
+/*@media only screen and (min-width : 768px) {
+
+}*/
+
+/* Large Devices, Wide Screens */
+/*@media only screen and (min-width : 130px) and (max-width: 47.9375em) {
+
+
+}*/
