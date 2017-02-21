@@ -7,14 +7,9 @@
 
 <body>
 
+<?php require_once 'assets/includes/page-top.php'; ?>
+
 <div class="content">
-
-    <?php require_once 'assets/includes/logo.php'; ?>
-    <?php require_once 'assets/includes/nav.php'; ?>
-
-    <!--<div class=" container">
-        <h2 class="bg-pink  text-black">Gary King Project</h2>
-    </div>-->
 
     <section>
         <div class="container">
@@ -39,7 +34,7 @@
 
             <div class="col-sm-12 col-md-12 col-lg-12 pink-border">
 
-                <a href="#"><img class="image-max-250 pull-left" src="/assets/images/gary-gtr.jpg"></a>
+                <a href="#"><img class="image-max-250 pull-left" src="/assets/images/gary-crocodile.jpg"></a>
 
                 <header>
 
@@ -94,7 +89,7 @@
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <h5 class="spaced">Drums</h5>
                         <ul class="list-unstyled">
-                            <li>Terry Maloney "Little Worlds", "Mexico", "New Stuff, Part Three"</li>
+                            <li>Terry Maloney "Little Worlds", "Mexico", "New Stuff"</li>
                             <li>Jack Endino "Time Space"</li>
                         </ul>
 
@@ -118,7 +113,7 @@
                         <h5 class="spaced">Keyboards</h5>
                         <ul class="list-unstyled">
                             <li>Gary King</li>
-                            <li>Terry Maloney "New Stuff, Part Three"</li>
+                            <li>Terry Maloney "New Stuff"</li>
                         </ul>
                     </div>
 
@@ -126,7 +121,7 @@
                         <h5 class="spaced">Keyboards</h5>
                         <ul class="list-unstyled">
                             <li>Gary King</li>
-                            <li>Terry Maloney "New Stuff, Part Three"</li>
+                            <li>Terry Maloney "New Stuff"</li>
                         </ul>
                     </div>
 

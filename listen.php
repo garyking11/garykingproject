@@ -6,9 +6,8 @@
 </head>
 
 <body class="wow fadeIn">
-<?php require_once 'assets/includes/logo.php'; ?>
-<?php require_once 'assets/includes/nav.php'; ?>
 
+<?php require_once 'assets/includes/page-top.php'; ?>
 
 <div class="content">
     <div class=" container">

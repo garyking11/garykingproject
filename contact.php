@@ -6,12 +6,11 @@
 </head>
 
 <body>
-<?php require_once 'assets/includes/logo.php'; ?>
-<?php require_once 'assets/includes/nav.php'; ?>
 
+<?php require_once 'assets/includes/page-top.php'; ?>
 
 <div class=" container">
-    <h2 class="bg-pink  text-black">Contact</h2>
+    <h2 class="bg-white-50  text-black">Contact</h2>
 </div>
 
 

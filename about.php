@@ -8,13 +8,12 @@
 <body>
 
 <div class="content">
-    <?php require_once 'assets/includes/logo.php'; ?>
-    <?php require_once 'assets/includes/nav.php'; ?>
 
+    <?php require_once 'assets/includes/page-top.php'; ?>
 
     <div>
         <div class=" container">
-            <h2 class="bg-pink  text-black">About</h2>
+            <h2 class="bg-white-50 text-black">About</h2>
         </div>
     </div>
 
