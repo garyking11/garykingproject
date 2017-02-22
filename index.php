@@ -34,7 +34,13 @@
 
             <div class="col-sm-12 col-md-12 col-lg-12 pink-border">
 
+            <div class="col-sm-12 col-md-3 col-lg-3">
+
                 <a href="#"><img class="image-max-250 pull-left" src="/assets/images/gary-crocodile.jpg"></a>
+
+            </div>
+
+            <div class="col-sm-12 col-md-9 col-lg-9 ">
 
                 <header>
 
@@ -59,6 +65,7 @@
 
                 <div class="clear"></div>
             </div>
+                </div>
         </div>
     </section>
 

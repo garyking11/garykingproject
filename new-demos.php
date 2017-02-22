@@ -30,7 +30,7 @@
                 <div>
                     <h3 class="spaced">Contributing artists</h3>
                     <ul class="list-unstyled">
-                        <li>Gary King: guitar, keyboards, programming and composition</li>
+                        <li>Gary King: guitar, bass, keyboards, programming and composition</li>
                         <li>Terry Maloney: drums on "Little Worlds", "New Stuff", keyboards on "New Stuff"</li>
                         <li>Greg Gilmore: bass on "Swamp"</li>
                         <li>Jack Endino: drum loops on "Time Space"</li>

@@ -205,13 +205,19 @@ h2.text-black {
     max-width: 250px;
 }
 
+
+#callouts {
+    width: 100%;
+    margin: 5px auto;
+
+}
 /* Callouts */
 #callouts .bg-callout {
     background: #222;
     margin: 1%;
-
+    /*margin: 5px auto;*/
     width: 31.333333333334%;
-    min-width: 220px;
+    min-width: 263px;
 }
 
 #callouts .bg-callout a {
