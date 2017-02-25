@@ -39,7 +39,8 @@ h1.heading {
 }
 
 h3.heading {
-    padding: 5px;
+    padding: 10px;
+    background: rgba(255, 56, 86, 0.8);
 }
 
 .header-container {
