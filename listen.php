@@ -11,10 +11,88 @@
 
 <div class="content">
     <div class=" container">
-        <h2 class="bg-pink  text-black">Listen</h2>
+        <h2 class="bg-white-50  text-black">Music in Progress</h2>
     </div>
 
+    <!-- Gretta and Gary -->
+    <section>
 
+        <div class="container">
+
+            <div class="col-sm-12 col-md-12 col-lg-12 pink-border">
+
+                <h3 class="spaced">Contributors</h3>
+                <div>
+                    <ul class="list-unstyled">
+                        <li>Gary King: All instruments and composition</li>
+                        <li>Gretta Harley: Vocals and lyrics</li>
+                        <li>Cover Art: James Brickell</li>
+                    </ul>
+                </div>
+
+
+                <!--           <div class="col-sm-12 col-md-2 col-lg-2">
+                               <h5 class="spaced">Vocals</h5>
+                               <ul class="list-unstyled">
+                                   <li>Open</li>
+                               </ul>
+                           </div>
+
+                           <div class="col-sm-12 col-md-2 col-lg-2">
+                               <h5 class="spaced">Drums</h5>
+                               <ul class="list-unstyled">
+                                   <li>Terry Maloney</li>
+                               </ul>
+
+                           </div>
+
+                           <div class="col-sm-12 col-md-2 col-lg-2">
+                               <h5 class="spaced">Guitar</h5>
+                               <ul class="list-unstyled">
+                                   <li>Gary King</li>
+                               </ul>
+                           </div>
+
+                           <div class="col-sm-12 col-md-2 col-lg-2">
+                               <h5 class="spaced">Bass</h5>
+                               <ul class="list-unstyled">
+                                   <li>Gary King</li>
+                               </ul>
+                           </div>
+
+                           <div class="col-sm-12 col-md-2 col-lg-2">
+                               <h5 class="spaced">Keyboards</h5>
+                               <ul class="list-unstyled">
+                                   <li>Gary King</li>
+                                   <li>Terry Maloney</li>
+                               </ul>
+                           </div>
+
+                           <div class="col-sm-12 col-md-2 col-lg-2">
+                               <h5 class="spaced">Mix</h5>
+                               <ul class="list-unstyled">
+                                   <li>Gary King</li>
+                               </ul>
+                           </div>-->
+
+
+                <div class="clear"></div>
+
+                <div class="pull-left">
+
+                    <img class="image-max-350 pull-left" src="/assets/images/gretta-gary-album-cover.jpg">
+
+                    <iframe style="border: 0; width: 33%; height: 350px;"
+                            src="https://bandcamp.com/EmbeddedPlayer/album=3450251967/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
+                            seamless><a href="http://garyking1.bandcamp.com/album/gretta-and-gary">Gretta and Gary</a></iframe>
+                </div>
+
+                <div class="clear"></div>
+
+            </div>
+
+        </div>
+    </section>
 
 
 <!-- Sylvia and Gary -->
@@ -27,8 +105,9 @@
             <h3 class="spaced">Contributors</h3>
             <div>
                 <ul class="list-unstyled">
-                    <li>Gary King: All instruments and composer</li>
-                    <li>Sylvia Wiedemann: Vocals and lyrics</li>
+                    <li>All instruments and composition: Gary King</li>
+                    <li>Vocals and lyrics: Sylvia Wiedemann</li>
+                    <li>Cover Art: Gary King</li>
                 </ul>
             </div>
 
@@ -86,8 +165,7 @@
 
                 <iframe style="border: 0; width: 33%; height: 350px;"
                         src="https://bandcamp.com/EmbeddedPlayer/album=1008972949/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
-                        seamless><a href="http://garyking1.bandcamp.com/album/sylvia-and-gary">Sylvia and Gary by Gary
-                        King and Sylvia Wiedemann</a></iframe>
+                        seamless><a href="http://garyking1.bandcamp.com/album/sylvia-and-gary">Gary King and Sylvia Wiedemann</a></iframe>
             </div>
 
             <div class="clear"></div>
@@ -107,8 +185,9 @@
             <h3 class="spaced">Contributors</h3>
             <div>
                 <ul class="list-unstyled">
-                    <li>Gary King: All instruments and composer</li>
-                    <li>Madeline Lieb: Vocals and lyrics</li>
+                    <li>All instruments and composition: Gary King</li>
+                    <li>Vocals and lyrics: Madeline Lieb</li>
+                    <li>Cover Art: Gary King</li>
                 </ul>
             </div>
             <div class="clear"></div>
@@ -157,12 +236,11 @@
                            </ul>
                        </div>-->
 
-
             <div class="clear"></div>
 
             <div class="pull-left">
 
-                <img class="image-max-350 pull-left" src="/assets/images/madeline-gary-cover.png">
+                <img class="image-max-350 pull-left" src="/assets/images/alpentide-cover.jpg">
 
                 <iframe style="border: 0; width: 33%; height: 350px;"
                         src="https://bandcamp.com/EmbeddedPlayer/album=3773097638/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
@@ -188,8 +266,9 @@
             <h3 class="spaced">Contributors</h3>
             <div>
                 <ul class="list-unstyled">
-                    <li>Gary King: All instruments and composer</li>
-                    <li>Terry Maloney: Vocals, lyrics and drums</li>
+                    <li>All instruments and composition: Gary King</li>
+                    <li>Vocals, lyrics and drums: Terry Maloney</li>
+                    <li>Cover Art: James Brickell</li>
                 </ul>
             </div>
 

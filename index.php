@@ -97,7 +97,7 @@
                         <h5 class="spaced">Drums</h5>
                         <ul class="list-unstyled">
                             <li>Terry Maloney "Little Worlds", "Mexico", "New Stuff"</li>
-                            <li>Jack Endino drum loops on "Time Space"</li>
+                            <li>Jack Endino "Time Space"</li>
                         </ul>
 
                     </div>
@@ -132,10 +132,7 @@
                         </ul>
                     </div>
 
-
                 </div>
-
-
                 <div class="clear"></div>
 
             </div>

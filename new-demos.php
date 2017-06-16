@@ -32,16 +32,26 @@
                     <ul class="list-unstyled">
                         <li>Gary King: guitar, bass, keyboards, programming and composition</li>
                         <li>Terry Maloney: drums on "Little Worlds", "New Stuff", keyboards on "New Stuff"</li>
+                        <li>Doug Owens: drums on "Penance"</li>
                         <li>Greg Gilmore: bass on "Swamp", drums on "Solar Storm"</li>
                         <li>Jack Endino: drum loops on "Time Space"</li>
+                        <li>&nbsp;</li>
+                        <li>Cover art: James Brickell</li>
                     </ul>
                 </div>
 
 
                 <div class="col-sm-12 col-md-3 col-lg-3">
-                    <img class="image-max-250 pull-left" src="/assets/images/album1.jpg">
+                    <img class="image-max-250 pull-left" src="/assets/images/the-gary-king-project.jpg">
                 </div>
 
+                <div class="col-sm-12 col-md-3 col-lg-3">
+                    <iframe style="margin-right: 10px; border: 0; width:  218px; height: 480px;"
+                            src="https://bandcamp.com/EmbeddedPlayer/album=2476078391/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
+                            seamless><a href="http://garyking1.bandcamp.com/album/new-stuff-ruff-demos">New Stuff (ruff
+                            demos)
+                            by Gary King</a></iframe>
+                </div>
 
                 <div class="col-sm-12 col-md-3 col-lg-3">
                     <iframe style="margin-right: 10px; border: 0; width: 218px;  height: 480px;"
@@ -57,15 +67,6 @@
                             seamless><a href="http://garyking1.bandcamp.com/album/from-nothing">From Nothing by Gary
                             King</a>
                     </iframe>
-                    </div>
-
-
-                    <div class="col-sm-12 col-md-3 col-lg-3">
-                        <iframe style="margin-right: 10px; border: 0; width:  218px; height: 480px;"
-                                src="https://bandcamp.com/EmbeddedPlayer/album=2476078391/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
-                                seamless><a href="http://garyking1.bandcamp.com/album/new-stuff-ruff-demos">New Stuff (ruff
-                                demos)
-                                by Gary King</a></iframe>
                     </div>
 
                     <div class="clear"></div>
