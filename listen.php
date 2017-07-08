@@ -21,70 +21,34 @@
 
             <div class="col-sm-12 col-md-12 col-lg-12 pink-border">
 
-                <h3 class="spaced">Contributors</h3>
-                <div>
-                    <ul class="list-unstyled">
-                        <li>Gary King: All instruments and composition</li>
-                        <li>Gretta Harley: Vocals and lyrics</li>
-                        <li>Cover Art: James Brickell</li>
-                    </ul>
+                <div class="col-sm-12 col-md-12 col-lg-12">
+
+                    <h3 class="spaced">Contributors</h3>
+
+                    <div>
+                        <ul class="list-unstyled">
+                            <li>Gary King: All instruments and composition</li>
+                            <li>Gretta Harley: Vocals and lyrics</li>
+                            <li>Doug Owens: drums on "Penance", "Angular", "Express"</li>
+                            <li>Terry Maloney: drums on "Scorpio"</li>
+                            <li>Cover Art: James Brickell</li>
+                        </ul>
+                    </div>
+
                 </div>
 
-
-                <!--           <div class="col-sm-12 col-md-2 col-lg-2">
-                               <h5 class="spaced">Vocals</h5>
-                               <ul class="list-unstyled">
-                                   <li>Open</li>
-                               </ul>
-                           </div>
-
-                           <div class="col-sm-12 col-md-2 col-lg-2">
-                               <h5 class="spaced">Drums</h5>
-                               <ul class="list-unstyled">
-                                   <li>Terry Maloney</li>
-                               </ul>
-
-                           </div>
-
-                           <div class="col-sm-12 col-md-2 col-lg-2">
-                               <h5 class="spaced">Guitar</h5>
-                               <ul class="list-unstyled">
-                                   <li>Gary King</li>
-                               </ul>
-                           </div>
-
-                           <div class="col-sm-12 col-md-2 col-lg-2">
-                               <h5 class="spaced">Bass</h5>
-                               <ul class="list-unstyled">
-                                   <li>Gary King</li>
-                               </ul>
-                           </div>
-
-                           <div class="col-sm-12 col-md-2 col-lg-2">
-                               <h5 class="spaced">Keyboards</h5>
-                               <ul class="list-unstyled">
-                                   <li>Gary King</li>
-                                   <li>Terry Maloney</li>
-                               </ul>
-                           </div>
-
-                           <div class="col-sm-12 col-md-2 col-lg-2">
-                               <h5 class="spaced">Mix</h5>
-                               <ul class="list-unstyled">
-                                   <li>Gary King</li>
-                               </ul>
-                           </div>-->
-
-
-                <div class="clear"></div>
-
-                <div class="pull-left">
+                <div class="col-sm-12 col-md-12 col-lg-12">
 
                     <img class="image-max-350 pull-left" src="/assets/images/gretta-gary-album-cover.jpg">
 
-                    <iframe style="border: 0; width: 33%; height: 350px;"
+                </div>
+
+
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <iframe style="border: 0; width: 100%; min-height: 450px;"
                             src="https://bandcamp.com/EmbeddedPlayer/album=3450251967/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
-                            seamless><a href="http://garyking1.bandcamp.com/album/gretta-and-gary">Gretta and Gary</a></iframe>
+                            seamless><a href="http://garyking1.bandcamp.com/album/gretta-and-gary">Gretta and Gary</a>
+                    </iframe>
                 </div>
 
                 <div class="clear"></div>
@@ -95,84 +59,45 @@
     </section>
 
 
-<!-- Sylvia and Gary -->
-<section>
+    <!-- Sylvia and Gary -->
+    <section>
 
-    <div class="container">
+        <div class="container">
 
-        <div class="col-sm-12 col-md-12 col-lg-12 pink-border">
+            <div class="col-sm-12 col-md-12 col-lg-12 pink-border">
 
-            <h3 class="spaced">Contributors</h3>
-            <div>
-                <ul class="list-unstyled">
-                    <li>All instruments and composition: Gary King</li>
-                    <li>Vocals and lyrics: Sylvia Wiedemann</li>
-                    <li>Cover Art: Gary King</li>
-                </ul>
+                <div class="col-sm-12 col-md-12 col-lg-12">
+
+                    <h3 class="spaced">Contributors</h3>
+                    <div>
+                        <ul class="list-unstyled">
+                            <li>Gary King: All instruments and composition</li>
+                            <li>Sylvia Wiedemann: Vocals and lyrics</li>
+                            <li>Cover Art: Gary King</li>
+                        </ul>
+                    </div>
+
+                </div>
+
+                <div class="col-sm-12 col-md-12 col-lg-12">
+
+                    <img class="image-max-350 pull-left" src="/assets/images/sylvia-gary-cover.jpg">
+
+                </div>
+
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <iframe style="border: 0;  width: 100%; min-height: 250px;"
+                            src="https://bandcamp.com/EmbeddedPlayer/album=1008972949/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
+                            seamless><a href="http://garyking1.bandcamp.com/album/sylvia-and-gary">Gary King and Sylvia
+                            Wiedemann</a></iframe>
+                </div>
+
+                <div class="clear"></div>
+
             </div>
-
-
-            <!--           <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Vocals</h5>
-                           <ul class="list-unstyled">
-                               <li>Open</li>
-                           </ul>
-                       </div>
-
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Drums</h5>
-                           <ul class="list-unstyled">
-                               <li>Terry Maloney</li>
-                           </ul>
-
-                       </div>
-
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Guitar</h5>
-                           <ul class="list-unstyled">
-                               <li>Gary King</li>
-                           </ul>
-                       </div>
-
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Bass</h5>
-                           <ul class="list-unstyled">
-                               <li>Gary King</li>
-                           </ul>
-                       </div>
-
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Keyboards</h5>
-                           <ul class="list-unstyled">
-                               <li>Gary King</li>
-                               <li>Terry Maloney</li>
-                           </ul>
-                       </div>
-
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Mix</h5>
-                           <ul class="list-unstyled">
-                               <li>Gary King</li>
-                           </ul>
-                       </div>-->
-
-
-            <div class="clear"></div>
-
-            <div class="pull-left">
-
-                <img class="image-max-350 pull-left" src="/assets/images/sylvia-gary-cover.jpg">
-
-                <iframe style="border: 0; width: 33%; height: 350px;"
-                        src="https://bandcamp.com/EmbeddedPlayer/album=1008972949/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
-                        seamless><a href="http://garyking1.bandcamp.com/album/sylvia-and-gary">Gary King and Sylvia Wiedemann</a></iframe>
-            </div>
-
-            <div class="clear"></div>
-
         </div>
 
-    </div>
+</div>
 </section>
 
 
@@ -182,67 +107,27 @@
 
         <div class="col-sm-12 col-md-12 col-lg-12 pink-border">
 
-            <h3 class="spaced">Contributors</h3>
-            <div>
-                <ul class="list-unstyled">
-                    <li>All instruments and composition: Gary King</li>
-                    <li>Vocals and lyrics: Madeline Lieb</li>
-                    <li>Cover Art: Gary King</li>
-                </ul>
+            <div class="col-sm-12 col-md-12 col-lg-12" style="padding: 2%;">
+
+                <h3 class="spaced">Contributors</h3>
+                <div>
+                    <ul class="list-unstyled">
+                        <li>Gary King: All instruments and composition</li>
+                        <li>Madeline Lieb: ocals and lyrics</li>
+                        <li>Cover Art: Gary King</li>
+                    </ul>
+                </div>
+
             </div>
-            <div class="clear"></div>
 
-            <!--           <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Vocals</h5>
-                           <ul class="list-unstyled">
-                               <li>Open</li>
-                           </ul>
-                       </div>
 
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Drums</h5>
-                           <ul class="list-unstyled">
-                               <li>Terry Maloney</li>
-                           </ul>
-
-                       </div>
-
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Guitar</h5>
-                           <ul class="list-unstyled">
-                               <li>Gary King</li>
-                           </ul>
-                       </div>
-
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Bass</h5>
-                           <ul class="list-unstyled">
-                               <li>Gary King</li>
-                           </ul>
-                       </div>
-
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Keyboards</h5>
-                           <ul class="list-unstyled">
-                               <li>Gary King</li>
-                               <li>Terry Maloney</li>
-                           </ul>
-                       </div>
-
-                       <div class="col-sm-12 col-md-2 col-lg-2">
-                           <h5 class="spaced">Mix</h5>
-                           <ul class="list-unstyled">
-                               <li>Gary King</li>
-                           </ul>
-                       </div>-->
-
-            <div class="clear"></div>
-
-            <div class="pull-left">
+            <div class="col-sm-12 col-md-12 col-lg-12">
 
                 <img class="image-max-350 pull-left" src="/assets/images/alpentide-cover.jpg">
 
-                <iframe style="border: 0; width: 33%; height: 350px;"
+            </div>
+            <div class="col-sm-12 col-md-12 col-lg-12">
+                <iframe style="border: 0; width: 100%; min-height: 350px;"
                         src="https://bandcamp.com/EmbeddedPlayer/album=3773097638/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
                         seamless><a href="http://garyking1.bandcamp.com/album/madeline-and-gary">Madeline and Gary by
                         Gary King and Madeline Lieb</a></iframe>
@@ -251,45 +136,51 @@
             <div class="clear"></div>
 
         </div>
+    </div>
 
     </div>
 </section>
 
 
 <!-- Terry and Gary -->
-
 <section>
     <div class="container">
 
         <div class="col-sm-12 col-md-12 col-lg-12 pink-border">
 
-            <h3 class="spaced">Contributors</h3>
-            <div>
+            <div class="col-sm-12 col-md-12 col-lg-12" style="padding: 2%;">
+
+                <h3 class="spaced">Contributors</h3>
+
                 <ul class="list-unstyled">
-                    <li>All instruments and composition: Gary King</li>
-                    <li>Vocals, lyrics and drums: Terry Maloney</li>
-                    <li>Cover Art: James Brickell</li>
+                    <li>Gary King: All instruments and composition</li>
+                    <li>Terry Maloney: Vocals, lyrics and drums:</li>
+                    <li>James Brickell: Cover Art</li>
                 </ul>
             </div>
 
-            <div class="pull-left">
+            <div class="col-sm-12 col-md-12 col-lg-12">
 
                 <img class="image-max-350 pull-left" src="/assets/images/terry-gary-cover.jpg">
 
-                <iframe style="border: 0; width: 33%; height: 350px;"
+            </div>
+
+            <div class="col-sm-12 col-md-12 col-lg-12">
+
+                <iframe style="border: 0; width: 100%; min-height: 250px;"
                         src="https://bandcamp.com/EmbeddedPlayer/album=2001645425/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
                         seamless><a href="http://garyking1.bandcamp.com/album/terry-and-gary">Terry and Gary by Gary
-                        King</a></iframe>
+                        King Project</a></iframe>
             </div>
 
             <div class="clear"></div>
 
         </div>
-
-    </div>
 </section>
 
 </div>
+
+<br/><br/>
 <!-- end content -->
 <?php require_once 'assets/includes/footer.php'; ?>
 

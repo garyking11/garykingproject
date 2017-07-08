@@ -20,14 +20,14 @@
                 <ul class="nav navbar-nav">
                     <li><a href="/">Home</a></li>
                     <li class="nav-bullet">&bullet;</li>
-                    <li><a href="/about">About</a></li>
+                    <li><a href="/about.php">About</a></li>
                     <li class="nav-bullet">&bullet;</li>
-                    <li><a href="/new-demos">Tracks</a></li>
+                    <li><a href="/new-demos.php">Tracks</a></li>
                     <li class="nav-bullet">&bullet;</li>
                     <!--                <li><a href="/players.php">Players</a></li>-->
                     <!--                <li><a href="listen.php">Listen</a></li>-->
                     <!--                <li><a href="#">Buy</a></li>-->
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/contact.php">Contact</a></li>
                     <!--<li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                            aria-expanded="false">Dropdown <span class="caret"></span></a>
