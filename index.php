@@ -81,8 +81,8 @@
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <h5 class="spaced">Vocals</h5>
                         <ul class="list-unstyled">
-                            <li>Sylvia Wiedemann "Tsunami", "Words"</li>
-                            <li>Madeline Lieb "Goddesses", "Float", "Rusty Vines", "Automatic"</li>
+                            <li>Sylvia Wiedemann: "Tsunami", "Words"</li>
+                            <li>Madeline Lieb: "Goddesses", "Float", "Rusty Vines", "Automatic"</li>
                         </ul>
                     </div>
 
@@ -96,8 +96,9 @@
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <h5 class="spaced">Drums</h5>
                         <ul class="list-unstyled">
-                            <li>Terry Maloney "Little Worlds", "Mexico", "New Stuff"</li>
-                            <li>Jack Endino "Time Space"</li>
+                            <li>Terry Maloney: "Little Worlds", "Mexico", "New Stuff"</li>
+                            <li>Doug "Sluggo" Owens: "Angular", "Express", "Penance"</li>
+                            <li>Jack Endino: "Time Space"</li>
                         </ul>
 
                     </div>
@@ -111,8 +112,8 @@
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <h5 class="spaced">Bass</h5>
                         <ul class="list-unstyled">
-                            <li>Gary King</li>
-                            <li>Greg Gilmore "Swamp"</li>
+                            <li>Gary King: All others</li>
+                            <li>Greg Gilmore: "Swamp"</li>
                         </ul>
                     </div>
 
@@ -120,14 +121,14 @@
                         <h5 class="spaced">Keyboards</h5>
                         <ul class="list-unstyled">
                             <li>Gary King</li>
-                            <li>Terry Maloney "New Stuff"</li>
+                            <li>Terry Maloney: "New Stuff"</li>
                         </ul>
                     </div>
 
                     <div class="col-sm-12 col-md-4 col-lg-4">
-                        <h5 class="spaced">Misc</h5>
+                        <h5 class="spaced">Production</h5>
                         <ul class="list-unstyled">
-                            <li>Coming soon ...</li>
+                            <li>Gary King: Produced and engineered</li>
 
                         </ul>
                     </div>

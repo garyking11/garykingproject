@@ -27,10 +27,10 @@
 
                     <div>
                         <ul class="list-unstyled">
-                            <li>Gary King: All instruments and composition</li>
+                            <li>Gary King: All instruments, composition and production</li>
                             <li>Gretta Harley: Vocals and lyrics</li>
                             <li>Doug Owens: drums on "Penance", "Angular", "Express"</li>
-                            <li>Terry Maloney: drums on "Scorpio"</li>
+                            <li>Terry Maloney: drums on "Scorpio", "Little Worlds"</li>
                             <li>Cover Art: James Brickell</li>
                         </ul>
                     </div>
@@ -38,11 +38,8 @@
                 </div>
 
                 <div class="col-sm-12 col-md-12 col-lg-12">
-
                     <img class="image-max-350 pull-left" src="/assets/images/gretta-gary-album-cover.jpg">
-
                 </div>
-
 
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <iframe style="border: 0; width: 100%; min-height: 450px;"
