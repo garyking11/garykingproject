@@ -30,8 +30,8 @@
                             <li>Gary King: All instruments, composition and production</li>
                             <li>Gretta Harley: Vocals and lyrics</li>
                             <li>Doug Owens: drums on "Penance", "Angular", "Express"</li>
-                            <li>Terry Maloney: drums on "Scorpio", "Little Worlds", "Prometheus"</li>
-                            <li>Kai Strandskov: drums on "Ling" <!-- , "Little Worlds" --> </li>
+                            <li>Terry Maloney: drums on "Scorpio", "Prometheus"</li>
+                            <li>Kai Strandskov: drums on "Ling", "Little Worlds"</li>
                             <li>Cover Art: James Brickell</li>
                         </ul>
                     </div>
