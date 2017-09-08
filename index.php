@@ -48,7 +48,7 @@
 
                     <hr/>
 
-                    <h4><span class="text-pink spaced">Current: </span> Seeking vocalist who writes lyrics</h4>
+<!--                    <h4><span class="text-pink spaced">Current: </span> Seeking vocalist who writes lyrics</h4>-->
                     <p class="">
                         I have written some music ideas over the
                         past few years. Please take a listen.</p>
