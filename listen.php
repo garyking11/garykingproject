@@ -31,7 +31,7 @@
                             <li>Gretta Harley: Vocals and lyrics</li>
                             <li>Doug Owens: drums on "Penance", "Angular", "Express"</li>
                             <li>Terry Maloney: drums on "Scorpio", "Prometheus"</li>
-                            <li>Kai Strandskov: drums on "Ling", "Little Worlds"</li>
+                            <li>Kai Strandskov: drums on "Ling", "Little Worlds", "If I Knew", "Blackbird"</li>
                             <li>Cover Art: James Brickell</li>
                         </ul>
                     </div>
@@ -43,7 +43,7 @@
                 </div>
 
                 <div class="col-sm-12 col-md-12 col-lg-12">
-                    <iframe style="border: 0; width: 100%; min-height: 450px;"
+                    <iframe style="border: 0; width: 100%; min-height: 550px;"
                             src="https://bandcamp.com/EmbeddedPlayer/album=3450251967/size=large/bgcol=000000/linkcol=FF3856/artwork=none/transparent=true/"
                             seamless><a href="http://garyking1.bandcamp.com/album/gretta-and-gary">Gretta and Gary</a>
                     </iframe>
@@ -100,7 +100,7 @@
 
 
 <!-- Madeline and Gary -->
-<section>
+<!--<section>
     <div class="container">
 
         <div class="col-sm-12 col-md-12 col-lg-12 pink-border">
@@ -111,7 +111,7 @@
                 <div>
                     <ul class="list-unstyled">
                         <li>Gary King: All instruments and composition</li>
-                        <li>Madeline Lieb: ocals and lyrics</li>
+                        <li>Madeline Lieb: Vocals and lyrics</li>
                         <li>Cover Art: Gary King</li>
                     </ul>
                 </div>
@@ -137,7 +137,7 @@
     </div>
 
     </div>
-</section>
+</section>-->
 
 
 <!-- Terry and Gary -->
